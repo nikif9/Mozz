@@ -6,6 +6,7 @@ composer install
 npm install
 npm run dev
 ```
+скопировать файл .env.example и переименовать в .env
 настроить файл .env
 ```sh
 DB_CONNECTION=mysql
